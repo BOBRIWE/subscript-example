@@ -16,4 +16,4 @@ const editor = new EditorJS({
       }).catch((error) => {
       console.log('Saving failed: ', error)
       });
-  }
+  };
